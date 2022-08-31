@@ -1,6 +1,6 @@
 # CC-Transactions
 
-## Some scripts I wrote that use the pandas library to conduct analysis on my Discover card transactions over the past two years, and to more quickly track my spending.
+## Some scripts I wrote that use the pandas and seaborn libraries to conduct analysis on my Discover card transactions over the past two years, and to more quickly track my spending.
 
 #### - In the Discover Purcahses.ipynb file, I analyzed my past two years of credit card transactions to identify my highest spending by month, category, and transaction description.
 #### - Discover's website doesn't allow for scraping with selenium, so manual download of updated data is necessary.
