@@ -1,4 +1,4 @@
-# CC-Transactions
+# Portfolio Project 2: Credit Card Transactions
 
 ## Some scripts I wrote that use the pandas and seaborn libraries to conduct analysis on my Discover card transactions over the past two years, and to more quickly track my spending.
 
